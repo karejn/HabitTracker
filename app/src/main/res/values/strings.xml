@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Novels</string>
+    <string name="editor_activity_title_new_novel">Add a Novel</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_reading_mode">Reading Mode</string>
+    <string name="category_time">Time</string>
+    <string name="hint_novel_name">Name of the novel</string>
+    <string name="hint_novel_genre">Genre</string>
+    <string name="hint_duration">Duration of reading</string>
+    <string name="unit_duration">min</string>
+    <string name="mode_physical">Physical copy</string>
+    <string name="mode_digital">Digital copy</string>
+    <string name="mode_na">N/A</string>
+</resources>
